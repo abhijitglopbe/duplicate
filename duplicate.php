@@ -2,7 +2,7 @@
 /**
  * Plugin name: Duplicate Posts and Pages in One Click
  * Version: 2.0
- * Description: hello world
+ * Description: hello world abhhijit biswas kaise ho 
  * Author: Abhijit Biswas
  * Author URI: https://rudrastyh.com
  * Plugin URI: https://rudrastyh.com/wordpress/duplicate-post.html
