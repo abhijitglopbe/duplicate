@@ -1,7 +1,7 @@
 <?php 
 /**
  * Plugin name: Duplicate Posts and Pages in One Click
- * Version: 2.0
+ * Version: 3.0
  * Description: hello world abhhijit biswas kaise ho 
  * Author: Abhijit Biswas
  * Author URI: https://rudrastyh.com
