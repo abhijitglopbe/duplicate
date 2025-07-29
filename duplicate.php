@@ -4,7 +4,7 @@
  * Version: 5.0
  * Description: bhai bhai kaise hooo
  * Author: Abhijit Biswas
- * Author URI: https://rudrastyh.com
+ * Author URI: glopbe.com
  * Plugin URI: https://rudrastyh.com/wordpress/duplicate-post.html
  * License: GPLv2
  */
