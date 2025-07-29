@@ -1,7 +1,7 @@
 <?php 
 /**
  * Plugin name: Duplicate Posts and Pages in One Click
- * Version: 3.0
+ * Version: 5.0
  * Description: bhai bhai kaise hooo
  * Author: Abhijit Biswas
  * Author URI: https://rudrastyh.com
