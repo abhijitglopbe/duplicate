@@ -2,7 +2,7 @@
 /**
  * Plugin name: Duplicate Posts and Pages in One Click
  * Version: 2.0
- * Description: This simple plugin allows to duplicate a page or a post in WordPress in one click. It is very simple and you don't need to use some heavy plugins for that.
+ * Description: hello world
  * Author: Abhijit Biswas
  * Author URI: https://rudrastyh.com
  * Plugin URI: https://rudrastyh.com/wordpress/duplicate-post.html
